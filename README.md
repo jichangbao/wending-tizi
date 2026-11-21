@@ -20,7 +20,7 @@
 | 6 | 二猫云 | 8.9 | 9 | IEPL 专线 | ¥89/年·60GB/月 | ¥20/月·130GB/月 | `ermao888` | 长期自用 · 约 4 个月（备用） | [二猫云测评](https://wendingtizi.blog/ceping/ermaoyun/) |
 | 7 | Firefly | 8.8 | 8.9 | IPLC 专线 | ¥96/年·60GB/月 | ¥25/月·150GB/月 | `firefly` | 长期自用 · 约 2 个月 | [Firefly测评](https://wendingtizi.blog/ceping/firefly/) |
 | 8 | 宇宙云 | 8.7 | 8.7 | IEPL / IPLC 专线 | ¥96/年·60GB/月 | ¥25/月·160GB/月 | `YUZHOU553` | 资料评测 | [宇宙云测评](https://wendingtizi.blog/ceping/yuzhouyun/) |
-| 9 | 无忧 | 8.6 | 8.4 | IPLC 专线 | ¥79/年·40GB/月 | ¥19/月·100GB/月 | `wuyou` | 资料评测 | [无忧测评](https://wendingtizi.blog/ceping/wuyou/) |
+| 9 | 无忧 | 8.6 | 8.4 | IPLC 专线 | ¥79/年·50GB/月 | ¥25/月·160GB/月 | `wuyou` | 资料评测 | [无忧测评](https://wendingtizi.blog/ceping/wuyou/) |
 | 10 | 光速云 | 8.5 | 8.5 | IPLC 专线 | ¥99/年·59GB/月 | ¥23/月·138GB/月 | `AMM` | 资料评测 | [光速云测评](https://wendingtizi.blog/ceping/guangsuyun/) |
 | 11 | 星岛梦 | 8.4 | 8.3 | IPLC 专线 | ¥96/年·60GB/月 | ¥25/月·150GB/月 | `nmw888` | 长期自用 · 约 1 个月 | [星岛梦测评](https://wendingtizi.blog/ceping/xingdaomeng/) |
 | 12 | 唯兔云 | 8.3 | 8.2 | IEPL / IPLC 专线 + 备用直连 | ¥79.9/年·45GB/月 | ¥19.9/月·150GB/月 | `rabbit` | 资料评测 | [唯兔云测评](https://wendingtizi.blog/ceping/weituyun/) |
